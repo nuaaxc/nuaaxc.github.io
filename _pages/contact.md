@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Data61, CSIRO<br>
+5/13 Garden St, Eveleigh NSW 2015<br>
+Email: Chang.Xu [at] data61.csiro.au
 
