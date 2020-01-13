@@ -1,67 +1,61 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=9ZuvJaAAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
+
 <br>
-<b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br> 
-Yuxuan Song, Ning Miao, Hao Zhou, <b>Lantao Yu</b>, Mingxuan Wang, Lei Li.
-<i>The 23rd International Conference on Artificial Intelligence and Statistics</i>. <b>AISTATS 2020</b>.
+<b>[STRIP: A Defence Against Trojan Attacks on Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3359789.3359790){:target="_blank"}</b> <br>
+Yansong Gao, <b>Chang Xu</b>, Derui Wang, Shiping Chen, Damith C.Ranasinghe, Surya Nepal.
+<i>The 35th Annual Computer Security Applications Conference</i>. <b>ACSAC 2019</b>.
 
-<b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br> 
-Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
-<i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.
+<b>[Recognising Agreement and Disagreement between Stances with Reason Comparing Networks](https://www.aclweb.org/anthology/P19-1460.pdf){:target="_blank"}</b> <br> 
+<b>Chang Xu</b>, Cecile Paris, Surya Nepal and Ross Sparks.
+<i>The 57th Annual Meeting of the Association for Computational Linguistics</i>. <b>ACL 2019</b>.
 
-<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
-Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
-<i>Arxiv 2019</i>.
+<b>[Cross-Target Stance Classification with Self-Attention Networks](https://www.aclweb.org/anthology/P18-2123.pdf){:target="_blank"}</b> <br> 
+<b>Chang Xu</b>, Cecile Paris, Surya Nepal and Ross Sparks.
+<i>The 56th Annual Meeting of the Association for Computational Linguistics</i>.
+<b>ACL 2018</b>.
 
-<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
-<b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
-<i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
+<b>[Collusive Opinion Fraud Detection in Online Reviews: A Probabilistic Modeling Approach](https://dl.acm.org/doi/pdf/10.1145/3098859?download=true){:target="_blank"}</b> <br> 
+<b>Chang Xu</b>, Jie Zhang.
+<i>ACM Transactions on the Web</i>. <b>TWEB 2017</b>.
 
-<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
-<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>. <span style="color:red">(Long Oral)</span>
+<b>[Online Reputation Fraud Campaign Detection in User Ratings](https://www.ijcai.org/proceedings/2017/0541.pdf){:target="_blank"}</b> <br> 
+<b>Chang Xu</b>, Jie Zhang and Zhu Sun.
+<i>The 26th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2017</b>.
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+<b>[Large-Scale Wi-Fi Hotspot Classification via Deep Learning](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/companion/p857.pdf){:target="_blank"}</b> <br> 
+<b>Chang Xu</b>, Kuiyu Chang, Khee-Chin Chua, Meishan Hu, Zhenjiang Gao.
+<i>The 26th International World Wide Web Conference</i>. <b>WWW 2017</b> (Poster).
 
-<b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
-Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+<b>[Improving Sybil Detection via Graph Pruning and Regularization Techniques](http://proceedings.mlr.press/v45/Zhang15b.pdf){:target="_blank"}</b> <br>
+Huanhuan Zhang, Jie Zhang, Carol Fung, <b>Chang Xu</b>.
+<i>The 7th Asian Conference on Machine Learning</i>. <b>ACML 2015</b>.
 
-<b>[Deep Reinforcement Learning for Green Security Games with Real-Time Information](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
-Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa, Fei Fang.
-<i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
+<b>[Towards Collusive Fraud Detection in Online Reviews](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7373434){:target="_blank"}</b> <br>
+<b>Chang Xu</b> and Jie Zhang. <i>The 15th IEEE International Conference on Data Mining</i>. <b>ICDM 2015</b>.
 
-<b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
-Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu.
-<i>Technical report. ArXiv 2018.</i>
+<b>[Combating Product Review Spam Campaigns via Multiple Heterogeneous Pairwise Features](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974010.20){:target="_blank"}</b><br>
+<b>Chang Xu</b> and Jie Zhang.
+<i>The 15th SIAM International Conference on Data Mining.</i> <b>SDM 2015</b>.
 
-<b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-<b>Lantao Yu</b>\*, Yaodong Yang\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
+<b>[Automated User Profiling in Location-Based Mobile Messaging Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7011229){:target="_blank"}</b> <br>
+Yao Cheng, <b>Chang Xu</b>, Yi Yang, Lingyun Ying, Purui Su, and Dengguo Feng.
+<i>The 13th International Conference on Trust, Security and Privacy in Computing and Communications</i>. <b>IEEE TrustCom 2014</b>.
 
-<b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
-Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
+<b>[Exploiting Trust and Distrust Information for Combating Sybil Attack in Online Social Networks](https://link.springer.com/chapter/10.1007/978-3-662-43813-8_6){:target="_blank"}</b><br>
+Huanhuan Zhang, <b>Chang Xu</b> and Jie Zhang. <i>The 8th International Conference on Trust management.</i> <b>IFIPTM 2014</b>.
 
-<b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
-<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
+<b>[Uncovering Collusive Spammers in Chinese Review Websites](https://www3.ntu.edu.sg/home/zhangj/paper/cikm13.pdf){:target="_blank"}</b><br>
+<b>Chang Xu</b>, Jie Zhang, Kuiyu Chang and Chong Long. <i>The 22nd ACM International Conference on Information and Knowledge Management.</i> <b>CIKM 2013</b>.
 
-<b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
-Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang.
-<i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017</b>. <span style="color:red">(Best Paper Award Honorable Mention)</span>
+<b>[Detecting Collusive Spammers in Online Review Communities](https://dl.acm.org/doi/pdf/10.1145/2513166.2513176?download=true){:target="_blank"}</b><br>
+<b>Chang Xu</b> and Jie Zhang. <i>The 6th Ph.D. Workshop on Information and Knowledge Management.</i> <b>PIKM 2013</b>.
 
-<b>[A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/publications/DADM)</b><br>
-<b>Lantao Yu</b>\*, Xuejian Wang\*, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang.
-<i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
+<b>[A simple approach to the design of site-level extractors using domain-centric principles](https://dl.acm.org/doi/pdf/10.1145/2396761.2398464?download=true){:target="_blank"}</b><br>
+Chong Long, Xiubo Geng, <b>Chang Xu</b>, and Sathiya Keerthi. <i>The 21st ACM international conference on Information and knowledge management</i>. <b>CIKM 2012</b>.
 
-<b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
-<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu.
-<i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
-
-
-
-
-
-[\* denotes equal contribution]
+<b>[LISP-HIMS: A Hierarchical Identifier Mapping System for LISP](http://en.cnki.com.cn/Article_en/CJFDTotal-JSJA201210009.htm){:target="_blank"}</b><br>
+<b>Chang Xu</b>, Yongmao Ren, Jun Li. <i>Computer Science[J] 2012</i>.
