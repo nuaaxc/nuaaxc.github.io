@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 <br>
+
+<b>[DAN: Dual-View Representation Learning for Adapting Stance Classifiers to New Domains]</b> <br>
+<b>Chang Xu</b>, Cecile Paris, Surya Nepal, Ross Sparks, Chong Long, and Yafang Wang.
+<i>Accepted at the 24th European Conference on Artificial Intelligence</i>. <b>ECAI 2020</b>.
+
 <b>[STRIP: A Defence Against Trojan Attacks on Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3359789.3359790){:target="_blank"}</b> <br>
 Yansong Gao, <b>Chang Xu</b>, Derui Wang, Shiping Chen, Damith C.Ranasinghe, Surya Nepal.
 <i>The 35th Annual Computer Security Applications Conference</i>. <b>ACSAC 2019</b>.
