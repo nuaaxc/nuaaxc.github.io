@@ -6,7 +6,7 @@ author_profile: true
 
 <br>
 
-<b>[DAN: Dual-View Representation Learning for Adapting Stance Classifiers to New Domains]</b> <br>
+<b>DAN: Dual-View Representation Learning for Adapting Stance Classifiers to New Domains</b> <br>
 <b>Chang Xu</b>, Cecile Paris, Surya Nepal, Ross Sparks, Chong Long, and Yafang Wang.
 <i>Accepted at the 24th European Conference on Artificial Intelligence</i>. <b>ECAI 2020</b>.
 
