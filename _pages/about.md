@@ -16,7 +16,7 @@ redirect_from:
 I am a postdoc at [CSIRO Data61](https://data61.csiro.au/), working with Dr. [Cecile Paris](https://people.csiro.au/P/C/Cecile-Paris). 
 
 * I obtained PhD in Computer Science from Nanyang Technological University in Singapore, under the supervision of Associate Professor [Jie Zhang](https://www.ntu.edu.sg/home/zhangj/). Prior to that, I received M.E. from Chinese Academy of Sciences, and B.E. from Nanjing University of Aeronautics and Astronautics. [[Google Scholar](https://scholar.google.com/citations?user=9ZuvJaAAAAAJ&hl=en)]
-* My research interests lie in the general area of natural language processing, particularly in opinion mining, text mining, and robust and explainable NLP models, as well as machine learning and deep learning techniques applied to those tasks, such as domain adaptation, probabilistic graphical models (e.g., GANs, VAEs).
+* My research interests lie in the general area of natural language processing, data mining, and artificial intelligence, particularly in opinion mining, text mining, and explainable and robust NLP models, as well as machine learning and deep learning techniques applied to those tasks, such as domain adaptation and probabilistic graphical models (e.g., MRF, EM, GANs, VAEs).
 
 # Recent News
 * Jan 2020: our paper "DAN: Dual-View Representation Learning for Adapting Stance Classifiers to New Domains" was accepted by ECAI 2020.
