@@ -31,6 +31,10 @@ Yansong Gao, <b>Chang Xu</b>, Derui Wang, Shiping Chen, Damith C.Ranasinghe, Sur
 <b>Chang Xu</b>, Jie Zhang and Zhu Sun.
 <i>The 26th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2017</b>.
 
+<b>[PowerLSTM: Power Demand Forecasting Using Long Short-Term Memory Neural Network](https://oar.a-star.edu.sg/jspui/bitstream/123456789/2386/3/ADMA_62.pdf){:target="_blank"}</b> <br>
+Cheng Yao, <b>Chang Xu</b>, Daisuke Mashima, Vrizlynn LL Thing, and Yongdong Wu.
+<i>The 13th International Conference on Advanced Data Mining and Applications</i>. <b>ADMA 2017</b>.
+
 <b>[Large-Scale Wi-Fi Hotspot Classification via Deep Learning](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/companion/p857.pdf){:target="_blank"}</b> <br> 
 <b>Chang Xu</b>, Kuiyu Chang, Khee-Chin Chua, Meishan Hu, Zhenjiang Gao.
 <i>The 26th International World Wide Web Conference</i>. <b>WWW 2017</b> (Poster).
