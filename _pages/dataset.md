@@ -1,9 +1,9 @@
 ---
+title: "Opinion Fraud Detection"
 permalink: /datasets/
 author_profile: true
 ---
 
-# Datasets for Opinion Fraud Detection
 ## Overview
 With the growing availability of review services at online stores or opinion sharing websites, consumer-generated reviews have become an indispensable part of online shopping. Nowadays online shoppers will not purchase a product without reading the reviews. However, many of the reviews they've read may not be that genuine as expected. It has been found that some (paid) review writers have engaged in the activities of posting fraudulent reviews, to promote/defame some specified products for their best interests.
 
