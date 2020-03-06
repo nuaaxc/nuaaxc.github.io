@@ -5,8 +5,8 @@ main:
 
   - title: "Publications"
     url: /publications/
-   
-   - title: "Datasets"
+  
+  - title: "Datasets"
     url: /datasets/
 
   # - title: "Awards & Honors"
