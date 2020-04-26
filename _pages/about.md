@@ -13,7 +13,7 @@ redirect_from:
   <img src="https://nuaaxc.github.io/files/changxu.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 -->
-I am a postdoc at the University of Melbourne, working with [Prof Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/) and [Assoc Prof Benjamin Rubinstein] (https://www.bipr.net/) on Adversarial Learning for NLP (e.g., understanding vulnerabilities of NLP systems). 
+I am a postdoc at the University of Melbourne, working with [Prof Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/) and [Assoc Prof Benjamin Rubinstein](https://www.bipr.net/) on Adversarial Learning for NLP (e.g., understanding vulnerabilities of NLP systems). 
 
 * Prior to joining UoM, I was a postdoc at CSIRO, working with [Dr. Cecile Paris] (https://people.csiro.au/P/C/Cecile-Paris). I obtained PhD in Computer Science from Nanyang Technological University in Singapore, under the supervision of Associate Professor [Jie Zhang](https://www.ntu.edu.sg/home/zhangj/). Prior to that, I received M.E. from Chinese Academy of Sciences, and B.E. from Nanjing University of Aeronautics and Astronautics. [[Google Scholar](https://scholar.google.com/citations?user=9ZuvJaAAAAAJ&hl=en)]
 
