@@ -13,9 +13,7 @@ redirect_from:
   <img src="https://nuaaxc.github.io/files/changxu.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 -->
-I am a postdoc at the University of Melbourne, working with Prof [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/) and Assoc Prof [Benjamin Rubinstein](https://www.bipr.net/) on Adversarial Learning for NLP (e.g., understanding vulnerabilities of NLP systems). 
-
-* Prior to joining UoM, I was a postdoc at CSIRO Data61 in Sydney, working with Dr [Cecile Paris](https://people.csiro.au/P/C/Cecile-Paris), Dr [Surya Nepal](https://people.csiro.au/N/S/Surya-Nepal), and Dr Ross Sparks. I obtained PhD in Computer Science from Nanyang Technological University, under the supervision of Assoc Prof [Jie Zhang](https://www.ntu.edu.sg/home/zhangj/). Prior to that, I received M.E. from the University of Chinese Academy of Sciences, and B.E. from Nanjing University of Aeronautics and Astronautics. [[Google Scholar](https://scholar.google.com/citations?user=9ZuvJaAAAAAJ&hl=en)]
+I am currently a postdoc at the University of Melbourne, where I work with [Prof. Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn/) and [Assoc Prof. Benjamin Rubinstein](https://www.bipr.net/) on issues around adversarial learning for NLP (e.g., understanding vulnerabilities of NLP systems). Prior to this, I was a postdoctoral researcher at CSIRO Data61 in Sydney, where I worked with [Dr Cecile Paris](https://people.csiro.au/P/C/Cecile-Paris). I obtained PhD in Computer Science from Nanyang Technological University, under the supervision of [Assoc Prof. Jie Zhang](https://www.ntu.edu.sg/home/zhangj/). [[Google Scholar](https://scholar.google.com/citations?user=9ZuvJaAAAAAJ&hl=en)]
 
 * My research interests lie in the general area of natural language processing, artificial intelligence, and cybersecurity, particularly in developing explainable and robust models for various NLP tasks, such as text classification and machine translation. I am also interested in machine learning and deep learning techniques applied to those tasks, such as probabilistic graphical models (e.g., MRFs, VAEs, GANs, etc.).
 
