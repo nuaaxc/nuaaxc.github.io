@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chang Xu"
 title_separator          : "-"
 name                     : &name "Chang Xu"
-description              : &description "Research Fellow, The University of Melbourne"
+description              : &description "Research Fellow, University of Melbourne"
 url                      : https://nuaaxc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nuaaxc/nuaaxc.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Chang Xu"
   avatar           : "changxu.jpg"
-  bio              : "Research Fellow, The University of Melbourne"
+  bio              : "Research Fellow, University of Melbourne"
   location         : "Melbourne, Australia"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=9ZuvJaAAAAAJ&hl=en"
