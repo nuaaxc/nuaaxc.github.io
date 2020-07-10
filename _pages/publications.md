@@ -1,16 +1,16 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=9ZuvJaAAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=9ZuvJaAAAAAJ&hl=en){:target="_blank"}"
 permalink: /publications/
 author_profile: true
 ---
 
 <br>
 
-<b>[DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model](https://doi.org/10.1109/TDSC.2020.2987025)</b> <br>
+<b>[DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model](https://doi.org/10.1109/TDSC.2020.2987025){:target="_blank"}</b> <br>
 Yao Cheng, <b>Chang Xu</b>, Zhen Hai, Yingjiu Li.
 <i>Accepted at the Transactions on Dependable and Secure Computing</i>. <b>TDSC 2020</b>.
 
-<b>[DAN: Dual-View Representation Learning for Adapting Stance Classifiers to New Domains](https://arxiv.org/pdf/2003.06514.pdf){:target="_blank"}</b> <br>
+<b>[DAN: Dual-View Representation Learning for Adapting Stance Classifiers to New Domains](http://ecai2020.eu/papers/218_paper.pdf){:target="_blank"}</b> <br>
 <b>Chang Xu</b>, Cecile Paris, Surya Nepal, Ross Sparks, Chong Long, and Yafang Wang.
 <i>Accepted at the 24th European Conference on Artificial Intelligence</i>. <b>ECAI 2020</b>.
 
