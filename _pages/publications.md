@@ -6,6 +6,10 @@ author_profile: true
 
 <br>
 
+<b>[Assessing Social License to Operate from the Public Discourse on Social Media](changxu.io){:target="_blank"}</b> <br>
+<b>Chang Xu</b>, Cecile Paris, Ross Sparks, Surya Nepal and Keith VanderLinden.
+<i>Accepted at the 28th International Conference on Computational Linguistics</i>. <b>COLING 2020</b>.
+
 <b>[DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model](https://doi.org/10.1109/TDSC.2020.2987025){:target="_blank"}</b> <br>
 Yao Cheng, <b>Chang Xu</b>, Zhen Hai, Yingjiu Li.
 <i>Accepted at the Transactions on Dependable and Secure Computing</i>. <b>TDSC 2020</b>.
