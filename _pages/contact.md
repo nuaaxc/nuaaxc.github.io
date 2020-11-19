@@ -4,7 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Data61, CSIRO<br>
-5/13 Garden St, Eveleigh NSW 2015<br>
-Email: Chang.Xu [at] data61.csiro.au
-
+The University of Melbourne<br>
+Parkville VIC 3010<br>
+Email: xu.c3[AT]unimelb.edu.au
