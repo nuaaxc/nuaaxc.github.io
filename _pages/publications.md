@@ -6,7 +6,7 @@ author_profile: true
 
 <br>
 
-<b>[argeted Poisoning Attacks on Black-Box Neural Machine Translation](changxu.io){:target="_blank"}</b> <br>
+<b>[Targeted Poisoning Attacks on Black-Box Neural Machine Translation](changxu.io){:target="_blank"}</b> <br>
 <b>Chang Xu</b>, Jun Wang, Yuqing Tang, Francisco Guzman, Benjamin I. P. Rubinstein, and Trevor Cohn.
 <i>arXiv:2011.00675 [cs.CL]</i>.
 
