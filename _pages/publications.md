@@ -6,13 +6,17 @@ author_profile: true
 
 <br>
 
-<b>[Assessing Social License to Operate from the Public Discourse on Social Media](changxu.io){:target="_blank"}</b> <br>
+<b>[argeted Poisoning Attacks on Black-Box Neural Machine Translation](changxu.io){:target="_blank"}</b> <br>
+<b>Chang Xu</b>, Jun Wang, Yuqing Tang, Francisco Guzman, Benjamin I. P. Rubinstein, and Trevor Cohn.
+<i>arXiv:2011.00675 [cs.CL]</i>.
+
+<b>[Assessing Social License to Operate from the Public Discourse on Social Media](https://arxiv.org/abs/2011.00675){:target="_blank"}</b> <br>
 <b>Chang Xu</b>, Cecile Paris, Ross Sparks, Surya Nepal and Keith VanderLinden.
 <i>Accepted at the 28th International Conference on Computational Linguistics</i>. <b>COLING 2020</b>.
 
-<!--<b>[DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model](https://doi.org/10.1109/TDSC.2020.2987025){:target="_blank"}</b> <br>
+<b>[DeepMnemonic: Password Mnemonic Generation via Deep Attentive Encoder-Decoder Model](https://doi.org/10.1109/TDSC.2020.2987025){:target="_blank"}</b> <br>
 //Yao Cheng, <b>Chang Xu</b>, Zhen Hai, Yingjiu Li.
-//<i>Accepted at the Transactions on Dependable and Secure Computing</i>. <b>TDSC 2020</b>.-->
+//<i>Accepted at the Transactions on Dependable and Secure Computing</i>. <b>TDSC 2020</b>.
 
 <b>[DAN: Dual-View Representation Learning for Adapting Stance Classifiers to New Domains](http://ecai2020.eu/papers/218_paper.pdf){:target="_blank"}</b> <br>
 <b>Chang Xu</b>, Cecile Paris, Surya Nepal, Ross Sparks, Chong Long, and Yafang Wang.
