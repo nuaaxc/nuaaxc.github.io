@@ -10,7 +10,7 @@ author_profile: true
 <b>Chang Xu</b>, Jun Wang, Yuqing Tang, Francisco Guzman, Benjamin I. P. Rubinstein, and Trevor Cohn.
 <i>arXiv:2011.00675 [cs.CL]</i>.
 
-<b>[Assessing Social License to Operate from the Public Discourse on Social Media](changxu.io){:target="_blank"}</b> <br>
+<b>[Assessing Social License to Operate from the Public Discourse on Social Media](https://www.aclweb.org/anthology/2020.coling-industry.14.pdf){:target="_blank"}</b> <br>
 <b>Chang Xu</b>, Cecile Paris, Ross Sparks, Surya Nepal and Keith VanderLinden.
 <i>Accepted at the 28th International Conference on Computational Linguistics</i>. <b>COLING 2020</b>.
 
