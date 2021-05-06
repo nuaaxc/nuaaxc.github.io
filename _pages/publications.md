@@ -6,9 +6,17 @@ author_profile: true
 
 <br>
 
+<b>[Putting words into the system's mouth: A targeted attack on neural machine translation using monolingual data poisoning](https://changxu.io){:target="_blank"}</b> <br>
+Jun Wang, <b>Chang Xu</b>, Francisco Guzmán, Ahmed El-Kishky, Yuqing Tang, Benjamin Rubinstein and Trevor Cohn
+<i>In: Findings of the 59th Annual Meeting of the Association for Computational Linguistics</i>. <b>ACL-IJCNLP 2021</b>.
+
+<b>[As Easy as 1, 2, 3: Behavioural Testing of NMT Systems for Numerical Translation](https://changxu.io){:target="_blank"}</b> <br>
+Jun Wang, <b>Chang Xu</b>, Francisco Guzmán, Ahmed El-Kishky, Benjamin Rubinstein and Trevor Cohn.
+<i>In: Findings of the 59th Annual Meeting of the Association for Computational Linguistics</i>. <b>ACL-IJCNLP 2021</b>.
+
 <b>[A Targeted Attack on Black-Box Neural Machine Translation with Parallel Data Poisoning](https://arxiv.org/abs/2011.00675){:target="_blank"}</b> <br>
 <b>Chang Xu</b>, Jun Wang, Yuqing Tang, Francisco Guzman, Benjamin I. P. Rubinstein, and Trevor Cohn.
-<i>In: Proceedings of the 2021 World Wide Web Conferece</i>. <b>WWW 2021</b>. Accepted.
+<i>In: Proceedings of the 2021 World Wide Web Conferece</i>. <b>WWW 2021</b>.
 
 <b>[Assessing Social License to Operate from the Public Discourse on Social Media](https://www.aclweb.org/anthology/2020.coling-industry.14.pdf){:target="_blank"}</b> <br>
 <b>Chang Xu</b>, Cecile Paris, Ross Sparks, Surya Nepal and Keith VanderLinden.
